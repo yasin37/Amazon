@@ -23,5 +23,5 @@ Logged out user should be able to search for products
 Search results page should contain 30 products
     [Tags]    current
     AmazonApp.Search for Products
-    AmazonApp.Verify Results Page Contains Products    16     # 16 can be changed
+    AmazonApp.Verify Results Page Contains Products    48     # 16 can be changed
 
